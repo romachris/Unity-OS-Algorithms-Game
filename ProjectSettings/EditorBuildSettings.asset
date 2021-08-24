@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 059c94e4c16d5d14cbb30d95ab10471c
+  - enabled: 1
+    path: Assets/Scenes/ChooseGame.unity
+    guid: 634e0bd4f9111844f85a9696f1a74791
+  - enabled: 1
+    path: Assets/Scenes/PSMenu.unity
+    guid: 025e97215cd06124ba8246b18901fb72
+  - enabled: 1
+    path: Assets/Scenes/PS.unity
+    guid: 52cadb00f2bf0bc47937aed5160b41c3
+  - enabled: 1
+    path: Assets/Scenes/WinGameScene.unity
+    guid: 1aea8210d442d71429faf6dd5f501bc9
+  - enabled: 1
+    path: Assets/Scenes/LoseGameScene.unity
+    guid: f7ebd17b48edd944c8b2b7ae801ed817
+  - enabled: 1
+    path: Assets/Scenes/MMMenu.unity
+    guid: a0c3bead5d569ec47b6042b56276c931
+  - enabled: 1
+    path: Assets/Scenes/MM.unity
+    guid: 94654d5e63ac95a4a9b51570c3d4ecaa
+  - enabled: 1
+    path: Assets/Scenes/WinMM.unity
+    guid: aa4b1e3e6e0bef54cb428c3b71612214
+  - enabled: 1
+    path: Assets/Scenes/LoseMM.unity
+    guid: cc22bb05a99e06f49bc22612be50d173
+  m_configObjects: {}
